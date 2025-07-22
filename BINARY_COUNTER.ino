@@ -71,6 +71,7 @@ void loop() {
   digitalWrite(four, LOW);
   digitalWrite(eight,HIGH);
   delay(lag);
+  
   digitalWrite(one , HIGH);
   digitalWrite(two , LOW);
   digitalWrite(four, LOW);
